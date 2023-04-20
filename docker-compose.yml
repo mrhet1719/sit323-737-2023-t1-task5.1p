@@ -1,5 +1,5 @@
 dazzling_nash:
-      image: palash315/task5.1p
+      image: HetMistry/task5.1p
       build:
         context: .
         dockerfile: Dockerfile
